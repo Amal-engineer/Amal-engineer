@@ -1,4 +1,10 @@
 ## Hi there 👋
+😄 Welcome to my profile, I am Amal
+💪 I have an engineering degree 
+🔭 I specialize in full-stack development and I'm interested in testing
+⚡ Fun fact:I love best-practices
+
+
 
 <!--
 **Amal-engineer/Amal-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

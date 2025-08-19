@@ -1,8 +1,8 @@
 ## Hi there 👋
-😄 Welcome to my profile, I am Amal
-💪 I have an engineering degree 
-🔭 I specialize in full-stack development and I'm interested in testing
-⚡ Fun fact:I love best-practices
+😄 Welcome to my profile, I am Amal </br>
+💪 I have an engineering degree </br>
+🔭 I specialize in full-stack development and I'm interested in testing </br>
+⚡ Fun fact:I love best-practices </br>
 
 
 

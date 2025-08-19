@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=Hello%20there%20👋&fontSize=90"/>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-## Hi there 👋
+<!--## Hi there 👋-->
 😄 Welcome to my profile, I am Amal </br>
 💪 I have an engineering degree </br>
 🔭 I specialize in full-stack development and I'm interested in testing </br>

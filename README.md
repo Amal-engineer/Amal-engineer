@@ -51,7 +51,7 @@
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <div align="center">
-### Show some ❤️ by starring some of my repositories
+Show some ❤️ by starring some of my repositories
 </div>
 
 

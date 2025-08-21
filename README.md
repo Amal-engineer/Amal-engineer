@@ -57,4 +57,4 @@ Show some ❤️ by starring some of my repositories
 
 <h1> My contributions </h1>
 
-![snake gif](https://github.com/Amal-engineer/Amal-engineer/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Amal-engineer/Amal-engineer/blob/output/github-snake.svg)
